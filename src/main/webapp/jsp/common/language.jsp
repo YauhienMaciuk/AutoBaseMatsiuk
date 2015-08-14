@@ -14,27 +14,9 @@
 <div class="block1">
     <div class="logo"></div>
     <br>
-
     <div id="form_A">
         <div class="title"><fmt:message key="lang.select"/></div>
         <br>
-        <%--<table align="center">--%>
-            <%--<tr>--%>
-                <%--<form action="controller" method="post">--%>
-                    <%--<input type="hidden" name="page" value="lang">--%>
-                    <%--<td>--%>
-                        <%--<input type="submit" name="language" value="en"--%>
-                               <%--style="background-image: url(/images/GB.jpg);" class="button2">--%>
-                    <%--</td>--%>
-                    <%--<td>--%>
-                        <%--<input type="submit" name="language" value="ru"--%>
-                               <%--style="background-image: url(/images/rus.jpg);" class="button3">--%>
-                    <%--</td>--%>
-                <%--</form>--%>
-            <%--</tr>--%>
-        <%--</table>--%>
-
-
         <table align="center">
             <tr>
                 <td>
@@ -53,8 +35,6 @@
                 </td>
             </tr>
         </table>
-
-
     </div>
 </div>
 </body>
