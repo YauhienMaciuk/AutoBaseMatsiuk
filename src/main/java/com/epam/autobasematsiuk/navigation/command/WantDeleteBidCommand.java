@@ -47,7 +47,7 @@ public class WantDeleteBidCommand implements ActionCommand {
                 }
                 break;
             default:
-                throw new CommandException("Exception in the method WantDeleteBid.execute()." +
+                throw new CommandException("Exception in the method WantDeleteBidCommand.execute()." +
                         " Default value in the switch.");
         }
         session.setAttribute(ID_BID, idBid);

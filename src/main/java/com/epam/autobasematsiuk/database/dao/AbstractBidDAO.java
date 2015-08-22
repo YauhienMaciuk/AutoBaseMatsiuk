@@ -7,7 +7,7 @@ import com.epam.autobasematsiuk.exception.DAOException;
 import java.util.List;
 
 /**
- * The Class AbstractBidDAO. Base abstract class for the class BidDAO.
+ * The class AbstractBidDAO. Base abstract class for the class BidDAO.
  */
 public abstract class AbstractBidDAO extends AbstractDAO {
 

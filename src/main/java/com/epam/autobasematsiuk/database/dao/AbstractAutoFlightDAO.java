@@ -7,7 +7,7 @@ import com.epam.autobasematsiuk.exception.DAOException;
 import java.util.List;
 
 /**
- * The Class AbstractAutoFlightDAO. Base abstract class for the class AutoFlightDAO.
+ * The class AbstractAutoFlightDAO. Base abstract class for the class AutoFlightDAO.
  */
 public abstract class AbstractAutoFlightDAO extends AbstractDAO {
 

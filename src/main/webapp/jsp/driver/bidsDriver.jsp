@@ -45,7 +45,7 @@
             <input type="submit" value="<fmt:message key="bidsDriver.press"/>" class="button5">
         </form>
     </div>
-    <br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br>
 </div>
 <table class="tb10" align="center">
     <tr>

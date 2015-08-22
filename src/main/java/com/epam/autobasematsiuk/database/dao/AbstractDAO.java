@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * The Class AbstractDAO. Base abstract class for concrete DAO objects.
+ * The class AbstractDAO. Base abstract class for concrete DAO objects.
  */
 public class AbstractDAO {
 

@@ -39,6 +39,12 @@
             </td>
         </tr>
     </table>
+    <br><br><br><br><br><br><br>
 </div>
+<table class="tb10" align="center">
+    <tr>
+        <td><ctg:footer/></td>
+    </tr>
+</table>
 </body>
 </html>

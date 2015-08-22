@@ -78,12 +78,12 @@ PRIMARY KEY (id)
 
 ALTER TABLE city DISABLE KEYS ;
 INSERT INTO city(id, name_city)VALUE
-(1, 'Брест'),
-(2, 'Витебск'),
-(3, 'Гомель'),
-(4, 'Гродно'),
-(5, 'Минск'),
-(6, 'Могилев');
+(1, 'Brest'),
+(2, 'Viciebsk'),
+(3, 'Homiel'),
+(4, 'Hrodna'),
+(5, 'Minsk'),
+(6, 'Mahilioŭ');
 ALTER TABLE city ENABLE KEYS ;
 
 CREATE TABLE IF NOT EXISTS bid (
