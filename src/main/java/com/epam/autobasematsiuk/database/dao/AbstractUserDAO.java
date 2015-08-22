@@ -4,7 +4,7 @@ import com.epam.autobasematsiuk.entity.User;
 import com.epam.autobasematsiuk.exception.DAOException;
 
 /**
- * The class IUserDAO. Base abstract class for the class UserDAO.
+ * The class AbstractUserDAO. Base abstract class for the class UserDAO.
  */
 public abstract class AbstractUserDAO extends AbstractDAO {
 
